@@ -1,4 +1,5 @@
-![Header](./Header)
+[![Header](https://raw.githubusercontent.com/muqaddasazahra/muqaddasazahra/main/Header.png)](https://github.com/muqaddasazahra)
+
 ### Hi there 👋
 
 <!--
