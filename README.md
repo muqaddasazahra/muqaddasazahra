@@ -4,7 +4,7 @@
 ## 👩‍💻 About Me
 I am Muqaddas Zahra, a diligent Full Stack Web Developer. My expertise centers around web development, particularly with the MERN stack – Node.js, Express.js, React, and MongoDB. I have successfully executed projects, such as developing a secure service booking platform and E-Commerce Platform. My technical proficiency extends to HTML, CSS, JavaScript, and frameworks like Express.js, React, Redux, and databases like PostgreSQL and MongoDB. Armed with a Bachelor's degree in Computer Science from Government College University, Lahore, Pakistan, and additional training from a MERN Stack Bootcamp, I am well-versed in various aspects of Full Stack Website development.
 
-I thrive on challenges, embracing collaboration, and staying abreast of emerging technologies. Excited to connect and explore the possibilities of technology together! 🚀
+I thrive on challenges, embracing collaboration, and staying abreast of emerging technologies. Excited to connect and explore the possibilities of technology together! 
 
 ## CORE SKILLS
 - **Programming Languages:** HTML, CSS, JavaScript
@@ -23,7 +23,14 @@ I specialize in developing secure and visually appealing web applications. My ex
 - Ensuring data security and integrity with PostgreSQL databases.
 - Collaborating on full-stack projects for a seamless end-to-end user experience.
 
-Let's connect and code together! 
+Let's connect and code together!
+
+* ✉️  Contact me at [muqaddasazahra@gmail.com](mailto:muqaddasazahra@gmail.com)
+
+<a href="https://www.github.com/muqaddasazahra" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/muqaddasazahra?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.x.com/muqaddasazehra" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/muqaddasazehra?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
+/></a>
 
 ### Socials
 
