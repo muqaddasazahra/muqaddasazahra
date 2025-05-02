@@ -42,5 +42,6 @@ src="https://img.shields.io/twitter/follow/muqaddasazehra?logo=twitter&style=for
 <b>GitHub Stats</b>
 
 <a href="http://www.github.com/muqaddasazahra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muqaddasazahra&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/muqaddasazahra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqaddasazahra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
